@@ -22,7 +22,7 @@ I am a Software Engineering student at **Universidade Univassouras**, based in *
 
 ## 🎓 Education
 **Software Engineering**  
-*Universidade Severino Sombra*  
+*Universidade Univassouras*  
 _Saquarema, Rio de Janeiro_
 
 ---
