@@ -1,13 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Rosonatt Ferreira
+<a href="https://linkedin.com/in/rosonatt-ferreira-1b6a371b0" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/seu_usuario" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+# 👋 Hi, I'm **Rosonatt Ferreira**
 
 **Aspiring Software Developer | Python Enthusiast | Web Developer**
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
-I am a Software Engineering student at Universidade Severino Sombra, based in Saquarema, Rio de Janeiro. I am passionate about back-end development and constantly exploring new technologies.
+I am a Software Engineering student at **Universidade Severino Sombra**, based in **Saquarema, Rio de Janeiro**. I am passionate about **back-end development** and constantly exploring new technologies.
 
 ---
 
@@ -29,21 +38,17 @@ _Saquarema, Rio de Janeiro_
 
 ### Main Technologies:
 <div>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-00599C?style=for-the-badge&logo=sql&logoColor=white"/>
-
 </div>
 
 ### Other Technologies:
 <div>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </div>
 
 ---
@@ -62,7 +67,7 @@ _Saquarema, Rio de Janeiro_
 - **Ethics in Artificial Intelligence** - ENAP  
 - **Python Programming** - DD Tutorials  
 
-*All certificates are valid from December 2024.*
+*All certificates are valid.*
 
 ---
 
@@ -77,7 +82,7 @@ _Saquarema, Rio de Janeiro_
 ---
 
 ## 📫 Contact
-<div>
+<div align="center">
 
 <a href="https://linkedin.com/in/rosonatt-ferreira-1b6a371b0" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -87,7 +92,13 @@ _Saquarema, Rio de Janeiro_
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/seu_usuario" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
+
+---
 
 <div align="center">
 
