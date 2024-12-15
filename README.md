@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a Software Engineering student at **Universidade Severino Sombra**, based in **Saquarema, Rio de Janeiro**. I am passionate about **back-end development** and constantly exploring new technologies.
+I am a Software Engineering student at **Universidade Univassouras**, based in **Saquarema, Rio de Janeiro**. I am passionate about **back-end development** and constantly exploring new technologies.
 
 ---
 
