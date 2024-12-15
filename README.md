@@ -62,7 +62,7 @@ _Saquarema, Rio de Janeiro_
 - **Ethics in Artificial Intelligence** - ENAP  
 - **Python Programming** - DD Tutorials  
 
-*All certifications are valid until December 2024.*
+*All certificates are valid from December 2024.*
 
 ---
 
