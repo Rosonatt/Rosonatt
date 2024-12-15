@@ -32,8 +32,6 @@ I'm a Software Engineering student at Severino Sombra University, located in Saq
 ## 📈 GitHub Stats
 - Contributions: 37+ in the last year
 - Repositories: Python, HTML, Jupyter Notebook
-- Following: 7
-- Followers: 1
 
 ## 💼 Professional Status
 Looking for opportunities as a Software Developer, focusing on Python and Web development.
