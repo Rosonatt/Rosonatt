@@ -29,8 +29,10 @@ _Saquarema, Rio de Janeiro_
 
 ## 💼 Professional Experience
 ### IT Intern  
-*[Company Name - Add Details]*  
-- [Add your key responsibilities and achievements]
+Open to work ✔️
+
+- Collaboration in the implementation of data structures and algorithms, applying best programming practices.
+- Development of small tools and automated scripts for repetitive tasks, increasing team productivity.
 
 ---
 
