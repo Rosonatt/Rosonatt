@@ -6,46 +6,69 @@
 <a href="https://www.instagram.com/roh2tyf/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+<a href="mailto:h2oroso@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 # 👋 Hi, I'm **Rosonatt Ferreira**
 
-**Aspiring Software Developer | Python Enthusiast | Web Developer**
+**Aspiring Software Developer | Python Enthusiast | Back-end Developer**
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-I am a Software Engineering student at **Universidade Univassouras**, based in **Saquarema, Rio de Janeiro**. I am passionate about **back-end development** and constantly exploring new technologies.
+I am a **Software Engineering student** at **Universidade Univassouras**, based in **Saquarema, Rio de Janeiro**.  
+I am passionate about **back-end development**, **data structures**, and **algorithms**, constantly exploring new technologies to improve my skills.
 
----
-
-## 🎓 Education
-**Software Engineering**  
-*Universidade Univassouras*  
-_Saquarema, Rio de Janeiro_
+- 🌱 Currently learning **Python for Machine Learning** and **API development**.  
+- ⚡ Fun fact: I enjoy experimenting with **game development** and **3D programming** in my free time.
 
 ---
 
 ## 💼 Professional Experience
-### IT Intern  
-Open to work ✔️
+### **IT Intern**  
+_Open to work ✔️_  
 
-- Collaboration in the implementation of data structures and algorithms, applying best programming practices.
-- Development of small tools and automated scripts for repetitive tasks, increasing team productivity.
+- Developed scripts and tools to automate repetitive tasks, improving team productivity.  
+- Collaborated on implementing **data structures** and **algorithms**, following best programming practices.  
+
+---
+
+## 🌱 Projects
+
+### **1. Games Development**  
+- Exploring **2D/3D programming** with **Python**.  
+- Learning physics simulations and rendering techniques.
+
+### **2. Data Structures and Algorithms**  
+- Implementing and optimizing classic algorithms in **Python** and **Java**.  
+- Focusing on complexity analysis and practical applications.
+
+### **3. Web Development**  
+- Building back-end applications using **Python** and **Oracle PL/SQL**.  
+- Creating APIs for data integration and management.  
+
+---
+
+## 🎓 Education
+**Bachelor of Software Engineering**  
+*Universidade Univassouras*  
+_Saquarema, Rio de Janeiro_  
 
 ---
 
 ## 🚀 Technical Skills
 
-### Main Technologies:
+### **Main Technologies**
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-00599C?style=for-the-badge&logo=sql&logoColor=white"/>
 </div>
 
-### Other Technologies:
+### **Other Technologies**
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -55,29 +78,23 @@ Open to work ✔️
 
 ---
 
-## 🌱 Projects
-- **Games:** Exploring 2D/3D development using Python  
-- **Data Structures:** Studying algorithms and data structures with Python and Java  
-- **Web Development:** Back-end development with Python and Oracle PL/SQL
-
----
-
 ## 📜 Certifications
 - **Oracle Database and PL/SQL Fundamentals** - IFRS  
-- **Basic IT Skills** - CCO  
+- **Python Programming** - DD Tutorials  
 - **Introduction to Data Science** - ENAP  
 - **Ethics in Artificial Intelligence** - ENAP  
-- **Python Programming** - DD Tutorials  
+- **Basic IT Skills** - CCO  
 
-*All certificates are valid.*
+_All certifications are valid._
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosonatt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosonatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosonatt&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
@@ -104,7 +121,7 @@ Open to work ✔️
 
 <div align="center">
 
-*⚡ Enthusiastic about game development and 3D programming!*
+*⚡ Enthusiastic about game development and 3D programming!*  
 
 </div>
 
