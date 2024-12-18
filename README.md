@@ -52,7 +52,7 @@ _Open to work ✔️_
 
 ---
 
-## 🎓 Education
+## 🎓 Graduating Student
 **Bachelor of Software Engineering**  
 *Universidade Univassouras*  
 _Saquarema, Rio de Janeiro_  
