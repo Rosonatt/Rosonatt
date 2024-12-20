@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://linkedin.com/in/rosonatt-ferreira-1b6a371b0" target="_blank">
@@ -93,9 +94,9 @@ _All certifications are valid._
 ## 📊 GitHub Stats
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosonatt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosonatt&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosonatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosonatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 </div>
 
