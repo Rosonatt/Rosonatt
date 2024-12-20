@@ -88,6 +88,7 @@ _Saquarema, Rio de Janeiro_
 - **Basic IT Skills** - CCO
 - **Database 1 Fundamentals** - IFRS
 - **Windows 10 for Beginners** - Bruno Uaitec
+- **Java Complete Course** -  Thiago Aguiar
 
 _All certifications are valid._
 
