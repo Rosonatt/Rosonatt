@@ -85,7 +85,9 @@ _Saquarema, Rio de Janeiro_
 - **Python Programming** - DD Tutorials  
 - **Introduction to Data Science** - ENAP  
 - **Ethics in Artificial Intelligence** - ENAP  
-- **Basic IT Skills** - CCO  
+- **Basic IT Skills** - CCO
+- **Database 1 Fundamentals** - IFRS
+- **Windows 10 for Beginners** - Bruno Uaitec
 
 _All certifications are valid._
 
