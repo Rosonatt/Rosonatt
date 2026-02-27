@@ -88,8 +88,14 @@ Minha especialidade é a intersecção entre o mundo físico e o digital: desenv
 
 ## 📊 Analytics do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosonatt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosonatt&layout=compact&theme=radical" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosonatt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Rosonatt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosonatt&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/Rosonatt)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rosonatt&theme=radical)](https://github.com/Rosonatt)
+
+
 </div>
 
 <div align="center">
