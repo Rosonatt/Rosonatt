@@ -3,7 +3,7 @@
 
   <br />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Mechatronics+|+Robotics+|+IoT;Full-stack+Python+Developer;Docker+|+Containerization+Expert)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Mechatronics+%7C+Robotics;Full-stack+Python+Developer;Docker+Containerization;IoT+%26+Embedded+Systems)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://linkedin.com/in/rosonatt-ferreira-1b6a371b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,46 +14,45 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
-Estudante de **Engenharia de Software** e **Técnico em Mecatrônica**. Atuo na intersecção entre hardware e software no **CIT** e na **C3 Engenharia**. Meu foco é criar sistemas escaláveis, seguros e automatizados.
+## 👨‍💻 `whoami`
+Estudante de **Engenharia de Software** e **Técnico em Mecatrônica**. Atuo no **CIT** e na **C3 Engenharia**, unindo o desenvolvimento de software escalável com o controle de hardware e robótica.
 
-- 🐳 **DevOps:** Entusiasta de Docker para padronização de ambientes de desenvolvimento.
-- 🐍 **Backend:** Especialista em ecossistema Python (Flask/FastAPI).
-- ⚙️ **Mecatrônica:** Firmware em C/C++ para robótica médica e industrial.
+- 🐳 **Infra:** Especialista em conteinerização com **Docker**.
+- 🐍 **Backend:** Desenvolvimento robusto com **Python (Flask/FastAPI)** e **Java**.
+- ⚙️ **Hardware:** Firmware em **C/C++** para sistemas embarcados e robôs hospitalares.
 
 ---
 
-## 🛠️ Stack Tecnológica & Ecossistema
+## 🛠️ Stack Tecnológica
 
 <table align="center">
   <tr>
     <td align="center" width="350">
-      <strong>💻 Desenvolvimento & Web</strong><br />
-      <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,mysql,mongodb,html,css,js" />
+      <strong>💻 Dev & Languages</strong><br />
+      <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,js,mysql,mongodb,html,css" />
     </td>
     <td align="center" width="350">
-      <strong>🐳 Infra & Ferramentas</strong><br />
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,raspberrypi" />
+      <strong>🐳 Ops & Hardware</strong><br />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,arduino,raspberrypi" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔬 Projetos em Destaque (Containerized)
+## 🔬 Projetos em Destaque
 
-### 🏫 Aluno Saqua
-> **Sistema de Gestão Escolar & Segurança.** Plataforma completa para combate ao bullying e gestão de frequência em Saquarema.
-> - **Infra:** Totalmente conteinerizado com **Docker**, facilitando o deploy e a escalabilidade.
-> - **Stack:** Python/Flask, MongoDB.
+### 🏫 Aluno Saqua (SGE)
+> Plataforma de gestão escolar e combate ao bullying.
+> - **Tech:** Python, Flask, MongoDB.
+> - **DevOps:** Ambientes isolados via **Docker Compose**.
 
-### 🏥 Projeto HÍGIA (Robótica Médica)
-> Robô autônomo UVC para desinfecção hospitalar (TRL 4).
-> - **Foco:** Sistemas de tempo real e integração Hardware-Software.
+### 🏥 Projeto HÍGIA
+> Robô de desinfecção hospitalar UVC (TRL 4). Desenvolvimento focado em sistemas críticos e teleoperação.
 
 ---
 
-## 📊 Analytics & Performance
+## 📊 Status do Sistema
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rosonatt&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" />
@@ -64,14 +63,9 @@ Estudante de **Engenharia de Software** e **Técnico em Mecatrônica**. Atuo na 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosonatt&theme=radical" />
 </div>
 
-### 🐍 Atividade no Código
-<div align="center">
-  <img src="https://github.com/Rosonatt/Rosonatt/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" />
-  <p><i>"Containerizing the world, one bit at a time."</i></p>
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
 </div>
