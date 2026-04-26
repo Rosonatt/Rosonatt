@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=007ACC&height=180&section=header&text=Rosonatt.dev&fontSize=60&pause=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=150&section=header&text=Rosonatt.dev&fontSize=70&fontAlignY=50&animation=fadeIn" />
 
   <br />
 
